@@ -1,0 +1,47 @@
+*자바스크립트
+1. 웹 브라우저에서 읽고 실행되는 언어
+2. 보안성이 없음
+3. html 내에 작성
+4. 대소문자의 구분 엄격(aaa AAA)
+
+클라이언트 사이드(이쪽) 랭귀지
+html css js
+가 서버
+jsp php asp
+에 리퀘스트하고 리스펀스로 받는다.
+
+ecma
+
+크롬 웹디자인 확장
+
+자바스크립트부터는 디버깅=잘못쓰면 실행안됨
+
+*적용 방법
+1. 내부 스크립트
+-html 문서 내에 스크립트 정의 후 직접 작성
+-필요한 위치에
+<script type="text/javascript">
+스크립트 효과
+</script>
+
+2. 외부 스크립트
+-스크립트 효과를 다른 문서에 작성하고 "이름.js" 로 저장
+-효과를 적용할 문서에
+<script type="text/javascript" src="이름.js">
+다른 문장 작성 금지
+</script>
+
+emmet 기능
+Live Server 확장 다운로드
+Docker
+
+디버거
+자바스크립트 규격 es6
+
+<a href ="#"
+a{color : red
+document.write("text")
+
+*스크립트 주석
+1. //:한 줄 주석
+2. /* */:여러 줄 주석
